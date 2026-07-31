@@ -1,0 +1,10 @@
+console.log("Nome: Miguel");
+console.log("idade: 16");
+console.log("cidade: Santa Rita do Passa Quatro");
+console.log("turma: 2º B");
+console.log("série favorita: Prision Break");
+console.log("time de futebol: Corinthians");
+console.log("comida favorita: Strogonoff de frango");
+console.log("hobby: treinar e jogar");
+console.log("musica favorita: 333");
+console.log("Animal de Estimação: gato");
