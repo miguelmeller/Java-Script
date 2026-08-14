@@ -1,15 +1,9 @@
-//*let nome;
-nome = "dez";
-console.log(nome);
-console.log(typeof nome);
+const numeros = [10, 20, 30, 40, 50];
 
-let numero = 10;
-console.log(numero++); //10
-console.log(numero); //11
-console.log(++numero); //12
+let soma = 0;
 
-console.log(numero--); //12
-console.log(numero); //11
-console.log(--numero); //10
+for (let numero of numeros) {
+    soma = soma + numero; 
+}
 
-
+console.log(soma);
