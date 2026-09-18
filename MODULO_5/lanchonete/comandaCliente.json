@@ -1,0 +1,20 @@
+{
+  "estabelecimento": "Mc",
+  "cliente": {
+    "id": 1,
+    "nome": "Israel"
+  },
+  "itens": [
+    {
+      "item": "Batata Frita",
+      "quantidade": 2,
+      "subTotal": 24
+    },
+    {
+      "item": "Refrigerante",
+      "quantidade": 1,
+      "subTotal": 22
+    }
+  ],
+  "totaPagar": 46
+}
